@@ -1,8 +1,7 @@
 # Material Design in Adobe Substance 3D Painter
 
-![Rubik's Cube](images/Rubiks_Cube_final.png)
 
-This repository presents a collection of material creation and texture painting projects completed in **Adobe Substance 3D Painter**. Each asset demonstrates the workflow from 3D model preparation to texture creation and the final rendered result.
+This repository presents a collection of material creation and texture painting projects completed in **Adobe Substance 3D Painter** and **Adobe Photoshop** . Each asset demonstrates the workflow from 3D model preparation to texture creation and the final rendered result.
 
 ---
 
@@ -27,7 +26,7 @@ This repository presents a collection of material creation and texture painting 
 
 # Rubik's Cube
 
-| Modeling | Texture | Final |
+| Modeling | UV Mapping | Final |
 |----------|----------|-------|
 | ![](images/Rubiks_Cube_modeling.png) | ![](images/Rubiks_Cube_texture.png) | ![](images/Rubiks_Cube_final.png) |
 
@@ -51,7 +50,7 @@ This repository presents a collection of material creation and texture painting 
 
 # Ice Cream
 
-| Modeling | UV | Final |
+| Modeling | UV Mapping | Final |
 |----------|----|-------|
 | ![](images/icecream_modeling.png) | ![](images/icecream_uv.png) | ![](images/icecream_final.png) |
 
@@ -59,7 +58,7 @@ This repository presents a collection of material creation and texture painting 
 
 # Pressure Cooker
 
-| Modeling | Texture | Final |
+| Modeling | UV Mapping | Final |
 |----------|----------|-------|
 | ![](images/pot_modeling.png) | ![](images/pot_texture.png) | ![](images/pot_final.png) |
 
@@ -67,7 +66,7 @@ This repository presents a collection of material creation and texture painting 
 
 # Fire Extinguisher
 
-| Modeling | Texture | Final |
+| Modeling | UV Mapping | Final |
 |----------|----------|-------|
 | ![](images/fire_extinguisher_modeling.png) | ![](images/fire_extinguisher_texture.png) | ![](images/fire_extinguisher_final.png) |
 
@@ -85,6 +84,7 @@ This repository presents a collection of material creation and texture painting 
 
 The project demonstrates the complete material creation workflow:
 
+- 3D Modeling
 - Asset preparation
 - UV mapping
 - Material authoring
